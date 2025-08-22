@@ -1,6 +1,6 @@
 # 뉴스 타임즈 웹 
 
-Advice Slip API에서 뉴스정보를 가져와 표시하는 간단한 웹 애플리케이션입니다.
+news API에서 뉴스정보를 가져와 표시하는 간단한 웹 애플리케이션입니다.
 
 ## 기능
 
@@ -21,4 +21,4 @@ Advice Slip API에서 뉴스정보를 가져와 표시하는 간단한 웹 애�
 
 ## 사용된 API
 
-*   Advice Slip API: `https://api.adviceslip.com/`
+*   Advice Slip API: `https://newsapi.org`
